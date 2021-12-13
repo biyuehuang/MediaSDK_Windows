@@ -1,0 +1,4 @@
+-i::h264 ..\video\svet_clip_1080p_4mbps_04.264 -join -hw  -async 4 -o::raw nul -ext_allocator -fps 30
+-i::h264 ..\video\svet_clip_1080p_4mbps_04.264 -join -hw  -async 4 -o::raw nul -ext_allocator -fps 30
+-i::h264 ..\video\svet_clip_1080p_4mbps_04.264 -join -hw  -async 4 -o::raw nul -ext_allocator -fps 30
+-i::h264 ..\video\svet_clip_1080p_4mbps_04.264 -join -hw  -async 4 -o::raw nul -ext_allocator -fps 30

@@ -1,0 +1,16 @@
+-i::h265 ..\video\svet_clip_1080p_4mbps_04.hevc -o::sink -hw -b 2000 -join
+-i::source -o::h265 out1.h265 -hw -b 2000 -join 
+-i::source -o::h265 out2.h265 -hw -b 2000 -join 
+-i::source -o::h265 out3.h265 -hw -b 2000 -join 
+-i::source -o::h265 out4.h265 -hw -b 2000 -join 
+-i::source -o::h265 out5.h265 -hw -b 2000 -join 
+-i::source -o::h265 out6.h265 -hw -b 2000 -join 
+-i::source -o::h265 out7.h265 -hw -b 2000 -join 
+-i::source -o::h265 out8.h265 -hw -b 2000 -join 
+-i::source -o::h265 out9.h265 -hw -b 2000 -join 
+
+
+
+
+
+
